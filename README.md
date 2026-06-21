@@ -71,6 +71,16 @@ Demo: https://chatsoft.netlify.app
 
 ---
 
+### 🔹 ESPACIOS BOLIVIA
+Proyecto desarrollado para un cliente real, enfocado en la creación de una plataforma web para la gestión y visualización de espacios disponibles.
+
+Participé principalmente en el desarrollo **Frontend**, implementando interfaces modernas, componentes interactivos y funcionalidades orientadas a la experiencia del usuario utilizando **Angular**.
+
+Este proyecto me permitió trabajar en un entorno más cercano al ámbito profesional, colaborando en equipo y participando en el desarrollo de una solución destinada a usuarios reales.
+
+🔗 Repositorio: https://github.com/Macacofig/EspaciosBolivia
+
+---
 ## Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/nataly-ramirez-machicado
