@@ -1,90 +1,119 @@
-<h1 align="center"><b>Hi, I'm Nataly Ramirez</b></h1>
+# 👩🏻‍💻 Nataly Ramirez
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer+in+progress;Engineering+Student;Angular+%7C+TypeScript+%7C+JavaScript;Always+learning+new+things">
-</p>
+### Software Developer
 
----
-
-## 🚀 About me
-
-- Estudiante de Ingeniería en Sistemas (4° año)
-- Enfocado en desarrollo **Frontend**
-- Experiencia con Angular, TypeScript y JavaScript
-- Con conocimientos en backend (Node.js, Python, C++)
-- Siempre aprendiendo y mejorando mis habilidades
-- Buscando oportunidades como Frontend Developer
+Estudiante de Ingeniería de Sistemas interesada en el desarrollo de aplicaciones web y en seguir aprendiendo nuevas tecnologías. Me gusta trabajar en proyectos donde pueda combinar lógica, diseño e implementación, especialmente en el desarrollo Frontend y Full Stack.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 
-### 💻 Frontend
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Lenguajes:**
+JavaScript · TypeScript · Java · Python
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Frontend:**
+Angular · React · HTML · CSS
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Backend:**
+Node.js · NestJS
+
+**Bases de datos:**
+SQL · MySQL
+
+**Herramientas:**
+Git · GitHub · Visual Studio Code
 
 ---
 
-## 📌 Featured Projects
-### 🔹 BMW
-Proyecto de diseño web desarrollado como parte de mi aprendizaje en 5to semestre (3er año) para la materia de Tecnología Web.  
-Enfocado en maquetación, estilos y estructura visual.  
+## 🚀 Proyectos
 
-🔗 Repositorio: https://github.com/natalyramirez-dev/Bmw.git  
+### UniHub
 
+🔗 https://github.com/Macacofig/TallerSisInfoProyect
 
-### 🔹 DESPENSA
-Aplicación móvil desarrollada en equipo durante 5to semestre (3er año) para la materia de Programación Móvil.  
-Participé como **Frontend, Backend y Product Owner**.  
-
-El proyecto presentó desafíos con la base de datos, por lo que propuse y ejecuté una solución basada en almacenamiento local, logrando estabilizar la aplicación.  
-La app fue publicada en la App Store.  
-
-Repositorio: https://github.com/natalyramirez-dev/despensa.git  
-
-
-### 🔹 PÁGINA PRÁCTICA
-Proyecto enfocado en la práctica de **HTML y JavaScript**, reforzando conceptos básicos de desarrollo web.  
-
-Repositorio: https://github.com/natalyramirez-dev/PracticaNpm.git  
-
-
-### 🔹 CHATBOT
-Proyecto académico desarrollado en 7mo semestre (4to año) para la materia de Ingeniería de Software.  
-Implementación de un chatbot utilizando **HTML, CSS y JavaScript**.  
-
-Repositorio: https://github.com/natalyramirez-dev/Chatbot.git  
-Demo: https://chatsoft.netlify.app  
+**Mi rol:** Desarrollo Frontend. Trabajé en la autenticación de usuarios y en la navegación de la aplicación. Implementé el manejo de sesión, la visualización dinámica del usuario y las opciones de perfil y cierre de sesión en la interfaz.
 
 ---
 
-### 🔹 ESPACIOS BOLIVIA
-Proyecto desarrollado para un cliente real, enfocado en la creación de una plataforma web para la gestión y visualización de espacios disponibles.
+### Ferretería Joel
 
-Participé principalmente en el desarrollo **Frontend**, implementando interfaces modernas, componentes interactivos y funcionalidades orientadas a la experiencia del usuario utilizando **Angular**.
+🔗 https://github.com/Macacofig/FERRETERIA-Joel
 
-Este proyecto me permitió trabajar en un entorno más cercano al ámbito profesional, colaborando en equipo y participando en el desarrollo de una solución destinada a usuarios reales.
+**Mi rol:** Desarrollo Frontend. Trabajé en la creación del Home, la navegación y la organización del menú de opciones. También realicé mejoras visuales y ajustes en las opciones relacionadas con la gestión de productos, ventas y caja.
 
-🔗 Repositorio: https://github.com/Macacofig/EspaciosBolivia
+---
+
+### Proyecto de Ingeniería de Software
+
+🔗 https://github.com/Macacofig/Ing-Software-ProjectBolivia
+
+**Mi rol:** Desarrollo Full Stack. Trabajé en la interfaz y lógica relacionada con usuarios, incluyendo registro, búsqueda y diferentes funcionalidades del sistema. También participé en refactorizaciones, pruebas y mejoras de la interfaz.
+
+---
+
+### Ingeniería de Software - Ventas
+
+🔗 https://github.com/Macacofig/Ing-Software-Ventas
+
+**Mi rol:** Desarrollo de software. Participé en el desarrollo y mejora de funcionalidades del sistema de ventas, trabajando tanto en aspectos de implementación como en ajustes visuales para la presentación del proyecto.
+
+---
+
+### Tec Web II - Proyecto 1
+
+🔗 https://github.com/Macacofig/Tec-Web-II-Proyecto1
+
+**Mi rol:** Desarrollo Frontend. Trabajé en diferentes secciones de la página, incluyendo Navbar, Hero, Features y Footer. También implementé mejoras visuales, contenido de imágenes, atributos `alt` y diseño responsive.
+
+---
+
+### Pixel Perfect
+
+🔗 https://github.com/Macacofig/Tec-Web-II-Pixel-Perfect
+
+**Mi rol:** Desarrollo Frontend. Trabajé en la construcción y adaptación visual de la página, realizando ajustes de tipografía, diseño responsive y diferentes mejoras para lograr una interfaz más consistente.
+
+---
+
+### Project React
+
+🔗 https://github.com/Macacofig/ProjectReact
+
+**Mi rol:** Desarrollo Frontend. Proyecto realizado utilizando React para trabajar en la construcción de interfaces y componentes reutilizables.
+
+---
+
+### Proyect Nest
+
+🔗 https://github.com/Macacofig/ProyectNest
+
+**Mi rol:** Desarrollo Backend. Proyecto orientado al desarrollo de servicios utilizando NestJS, trabajando con la estructura y lógica necesaria para una aplicación backend.
+
+---
+
+### Proyecto Final de Análisis
+
+🔗 https://github.com/Macacofig/ProjectoFinalAnalisis
+
+**Mi rol:** Desarrollo del proyecto. Participé en la implementación y organización de las funcionalidades desarrolladas como parte del proyecto final de análisis.
+
+---
+
+### Java
+
+🔗 https://github.com/Macacofig/Java
+
+**Mi rol:** Desarrollo en Java. Repositorio utilizado para trabajar conceptos de programación y desarrollar diferentes ejercicios y prácticas utilizando Java.
+
+---
+
+## 📚 Otros proyectos
+
+Además de los proyectos destacados, también he trabajado en diferentes proyectos académicos y personales relacionados con desarrollo web, programación y análisis de sistemas.
 
 ---
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/nataly-ramirez-machicado
-- Email: nramirezmachicado@gmail.com
-- Github: https://github.com/natalyramirez-dev
-
----
+* LinkedIn: https://www.linkedin.com/in/nataly-ramirez-machicado
+* Email: nramirezmachicado@gmail.com
+* Github: https://github.com/natalyramirez-dev
